@@ -1,2 +1,3 @@
 # Wk3Repository
-this is week 3 repository
+this is week 3 repository.
+the read me file has been edited today.
